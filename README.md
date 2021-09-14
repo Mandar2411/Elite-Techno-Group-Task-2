@@ -3,7 +3,7 @@ Summer Olympics Data Analysis Assignment using Pandas. <br />
 
 #Summary
 
-The summer.csv files includes data about Summer Olympics. <br />
+The summer.csv files includes data about Summer Olympics. <br /><br />
 We have to answer the question provided. <br /><br />
 
 The questions are as follows :- <br />
