@@ -16,6 +16,6 @@ The questions are as follows :- <br />
 7) Which event is most popular in terms on number of players? (Top 5) <br />
 8) Which sport is having most female Gold Medalists? (Top 5) <br /> <br />
 
-The summerOlympicsAnalysis.ipynb file contain answers with grphs whenever required to all above questions with code. <br />
+The summerOlympicsAnalysis.ipynb file contain answers with graphs whenever required to all above questions with code. <br />
 
 
